@@ -20,9 +20,9 @@ Example:
 -gpuId represents the devices. If you are using one GPU, use -gpuId 0; if you use two GPUs 
 -gpuId 0,1; if you use three GPUs -gpuid 0,1,2; etc.
 
-Step 4: Run the .exe file and let it run. You will see tame and wild files start filling up in the same folder.
+Step 4: Run the .exe file and let it run. You will see tame and wild text files start filling up in the same folder.
 
-Step 5: Once you are ready to submit work, stop the .exe file from running and send the tame and wild files. I have included example batch files to combine your wild and tame files so you only have to send one tame file and one wild file.
+Step 5: Once you are ready to submit work, stop the .exe file from running and send me the tame and wild files (via DM on Discord). I have included example batch files to combine your wild and tame files so you only have to send one tame file and one wild file.
 
 Step 6: Rinse and repeat Steps 4 and 5.
 
