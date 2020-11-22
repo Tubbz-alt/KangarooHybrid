@@ -27,4 +27,4 @@ Step 5: Once you are ready to submit work, stop the .exe file from running and s
 Step 6: Rinse and repeat Steps 4 and 5.
 
 More information here:
-https://discord.com/channels/779007824297459762/779344053459877910
+https://discord.gg/6ysgcHbC
