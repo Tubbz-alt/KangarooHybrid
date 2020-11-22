@@ -11,7 +11,7 @@ With many people helping, we should be able to break the #120 puzzle rather quic
 
 But it is rather simple to get started and help out and earn some Bitcoin.
   
-Step 1: Download .exe program, the solver-all.py file, and the batch (.bat) files.
+Step 1: Go to the "Releases" secion and download the .exe program, the solver-all.py file, and the batch (.bat) files.
 
 Step 2: Add all of those files into one folder on your PC.
 
