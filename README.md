@@ -3,7 +3,7 @@ KangarooHybrid to help solve the 100 BTC Bitcoin Challenge
 
 This version is a combination of Jean Luc's VanitySearch and Alek76's KangarooHybrid; with small tweaks made by me to speed up the process of finding the private key.
 
-I am setting this up to help capture the 100 BTC Bitcoin challenge ( https://bitcointalk.org/index.php?topic=5218972.0 ) using GPUs only, no CPU function at this time; and I only compiled for Windows users. 
+I am setting this up to help capture the 100 BTC Bitcoin challenge ( https://bitcointalk.org/index.php?topic=5218972.0 ) using GPUs only, no CPU function at this time. Also, only Nvidia GPUs work and I only compiled for Windows users. 
 
 For right now, the only challenges we are going after are the ones that have their bitcoin public key exposed (#120, #125, #130, etc....using a version of Pollard's Kangaroo method with distinguished points. 
 
